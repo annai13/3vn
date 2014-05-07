@@ -5,7 +5,7 @@ End Code
 <div class="jumbotron">
     <h1>VIRKAR ÞETTA??!?!???!</h1>
     <p class="lead">all the text behind this line is automatically added you swine!.ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="http://www.mbl.is" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+    <p><a href="http://www.visir.is" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
 </div>
 
 <div class="row">
