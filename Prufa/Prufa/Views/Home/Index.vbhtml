@@ -10,6 +10,10 @@ End Code
 >>>>>>> ee1bade9274dc89c900bdd92442271f573f7ad19
     <p class="lead">all the text behind this line is automatically added you swine!.ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
     <p><a href="http://www.mbl.is" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+    <div>
+        <input type="text" />
+        <input type=”button” value="RoarCraft">
+    </div>
 </div>
 
 <div class="row">
@@ -20,7 +24,7 @@ End Code
             enables a clean separation of concerns and gives you full control over markup
             for enjoyable, agile development.
         </p>
-        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+        <p><a class="btn btn-default" href="http://imgur.com">Learn more &raquo;</a></p>
     </div>
     <div class="col-md-4">
         <h2>Get more libraries</h2>
